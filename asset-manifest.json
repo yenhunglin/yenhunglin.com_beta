@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/yenhunglin.com_beta/static/css/main.9f20f834.chunk.css",
+    "main.js": "/yenhunglin.com_beta/static/js/main.8cb572c6.chunk.js",
+    "main.js.map": "/yenhunglin.com_beta/static/js/main.8cb572c6.chunk.js.map",
+    "runtime-main.js": "/yenhunglin.com_beta/static/js/runtime-main.e976cd58.js",
+    "runtime-main.js.map": "/yenhunglin.com_beta/static/js/runtime-main.e976cd58.js.map",
+    "static/js/2.d6943451.chunk.js": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js",
+    "static/js/2.d6943451.chunk.js.map": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js.map",
+    "index.html": "/yenhunglin.com_beta/index.html",
+    "precache-manifest.3cfb4f560a451af1d02acfc9554ccb4f.js": "/yenhunglin.com_beta/precache-manifest.3cfb4f560a451af1d02acfc9554ccb4f.js",
+    "service-worker.js": "/yenhunglin.com_beta/service-worker.js",
+    "static/css/main.9f20f834.chunk.css.map": "/yenhunglin.com_beta/static/css/main.9f20f834.chunk.css.map",
+    "static/js/2.d6943451.chunk.js.LICENSE.txt": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/yenhunglin.com_beta/static/media/1.16af57cb.png",
+    "static/media/10.png": "/yenhunglin.com_beta/static/media/10.83bfddfb.png",
+    "static/media/11.png": "/yenhunglin.com_beta/static/media/11.9813ed0a.png",
+    "static/media/12.png": "/yenhunglin.com_beta/static/media/12.5804fe33.png",
+    "static/media/13.png": "/yenhunglin.com_beta/static/media/13.e954e603.png",
+    "static/media/2.png": "/yenhunglin.com_beta/static/media/2.ed8abf3e.png",
+    "static/media/3.png": "/yenhunglin.com_beta/static/media/3.5ac74c04.png",
+    "static/media/4.png": "/yenhunglin.com_beta/static/media/4.c7a09b7d.png",
+    "static/media/5.png": "/yenhunglin.com_beta/static/media/5.297587f5.png",
+    "static/media/6.png": "/yenhunglin.com_beta/static/media/6.342fc089.png",
+    "static/media/7.png": "/yenhunglin.com_beta/static/media/7.381a98f2.png",
+    "static/media/8.png": "/yenhunglin.com_beta/static/media/8.0a69aec0.png",
+    "static/media/9.png": "/yenhunglin.com_beta/static/media/9.39fe8e10.png",
+    "static/media/behance.png": "/yenhunglin.com_beta/static/media/behance.932e9673.png",
+    "static/media/dribbble.png": "/yenhunglin.com_beta/static/media/dribbble.b1e520d7.png",
+    "static/media/header-2.png": "/yenhunglin.com_beta/static/media/header-2.3823c284.png",
+    "static/media/header.png": "/yenhunglin.com_beta/static/media/header.35db437d.png",
+    "static/media/ig.png": "/yenhunglin.com_beta/static/media/ig.b5a94f90.png",
+    "static/media/medium.png": "/yenhunglin.com_beta/static/media/medium.d4bd4239.png",
+    "static/media/pinterest.png": "/yenhunglin.com_beta/static/media/pinterest.145f9d7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e976cd58.js",
+    "static/js/2.d6943451.chunk.js",
+    "static/css/main.9f20f834.chunk.css",
+    "static/js/main.8cb572c6.chunk.js"
+  ]
+}
