@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6040d91bd598f2349723989e6bea64a1",
+    "revision": "7adcba4ea9fe511817286e7ac66eabc8",
     "url": "/yenhunglin.com_beta/index.html"
   },
   {
-    "revision": "ab2c74f95e1c347360d1",
-    "url": "/yenhunglin.com_beta/static/css/main.9f20f834.chunk.css"
+    "revision": "7072250935be70d7b9de",
+    "url": "/yenhunglin.com_beta/static/css/main.dc809248.chunk.css"
   },
   {
     "revision": "0f15172aaae1f45ee8f7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab2c74f95e1c347360d1",
+    "revision": "7072250935be70d7b9de",
     "url": "/yenhunglin.com_beta/static/js/main.8cb572c6.chunk.js"
   },
   {

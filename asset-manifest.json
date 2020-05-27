@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yenhunglin.com_beta/static/css/main.9f20f834.chunk.css",
+    "main.css": "/yenhunglin.com_beta/static/css/main.dc809248.chunk.css",
     "main.js": "/yenhunglin.com_beta/static/js/main.8cb572c6.chunk.js",
     "main.js.map": "/yenhunglin.com_beta/static/js/main.8cb572c6.chunk.js.map",
     "runtime-main.js": "/yenhunglin.com_beta/static/js/runtime-main.e976cd58.js",
@@ -8,9 +8,9 @@
     "static/js/2.d6943451.chunk.js": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js",
     "static/js/2.d6943451.chunk.js.map": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js.map",
     "index.html": "/yenhunglin.com_beta/index.html",
-    "precache-manifest.3cfb4f560a451af1d02acfc9554ccb4f.js": "/yenhunglin.com_beta/precache-manifest.3cfb4f560a451af1d02acfc9554ccb4f.js",
+    "precache-manifest.cc43bdf4c9ac199b876c3a9db95fe253.js": "/yenhunglin.com_beta/precache-manifest.cc43bdf4c9ac199b876c3a9db95fe253.js",
     "service-worker.js": "/yenhunglin.com_beta/service-worker.js",
-    "static/css/main.9f20f834.chunk.css.map": "/yenhunglin.com_beta/static/css/main.9f20f834.chunk.css.map",
+    "static/css/main.dc809248.chunk.css.map": "/yenhunglin.com_beta/static/css/main.dc809248.chunk.css.map",
     "static/js/2.d6943451.chunk.js.LICENSE.txt": "/yenhunglin.com_beta/static/js/2.d6943451.chunk.js.LICENSE.txt",
     "static/media/1.png": "/yenhunglin.com_beta/static/media/1.16af57cb.png",
     "static/media/10.png": "/yenhunglin.com_beta/static/media/10.83bfddfb.png",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.e976cd58.js",
     "static/js/2.d6943451.chunk.js",
-    "static/css/main.9f20f834.chunk.css",
+    "static/css/main.dc809248.chunk.css",
     "static/js/main.8cb572c6.chunk.js"
   ]
 }
